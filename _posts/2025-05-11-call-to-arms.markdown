@@ -5,6 +5,8 @@ date:   2025-05-11 13:40:19 +0200
 categories: misc
 ---
 
+[](/assets/biking2.png)
+
 Hello Foreigner,
 
 This is my first blog post as I had decided to participate in the half distance of the legendary [Hungarian Divide](https://klnd.eu/hungarian-divide-en/) ultra-cycling trail in 2026.
