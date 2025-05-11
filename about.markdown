@@ -9,7 +9,7 @@ permalink: /about/
 ![](/assets/selmec_trail.png)
 
 Hi, my name is Bálint Pataki, I am a hobby sportsman from Middle Europe - I live in a town called Sopron in Northwest Hungary and work in Vienna, Austria.
-My Instagram: [](https://www.instagram.com/oedenburgeroutdoorstories/)
+My Instagram: [Ödenburger Outdoor Stories](https://www.instagram.com/oedenburgeroutdoorstories/)
 
 My goal with this blog is to track and share my (bigger) outdoor activities, preparations for such events and anything else related which come into my mind:)
 
