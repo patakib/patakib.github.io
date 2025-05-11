@@ -7,7 +7,7 @@ categories: misc, outdoor
 
 Hello Foreigner,
 
-This is my first blog post as I had decided to participate in the half distance of the legendary Hungarian Divide ultra-cycling trail in 2026.
+This is my first blog post as I had decided to participate in the half distance of the legendary [Hungarian Divide](https://klnd.eu/hungarian-divide-en/) ultra-cycling trail in 2026.
 
 # Training Plan
 I was never a big fan of too strict training plans when I prepared for half marathons or aikido belt exams. That hasn't changed:)
