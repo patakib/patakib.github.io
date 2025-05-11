@@ -43,7 +43,7 @@ Then I thought I need a big goal to prepare for and fight for.
 I decided to participate in the [Hungarian Divide](https://klnd.eu/hungarian-divide-en/) (half distance) in 2026. Yes. This is the only ultra-cycling event in Hungary with more than 70% on trails, altogether it is around 700 kms.
 This is a huge challenge. At least something to work towards!
 
-Oh, and I almost forgot - I have another friend who is really huge inspiration for me in terms of sport nowadays: check his website and socials: [RunnerMate](runnermate.eu)! Thanks Mate, for organizing and keeping together such a nice [running group](duhajok.hu), although this was not my main focus during the last couple of months, but I appreciate it and whenever I come around, it is always fun.
+Oh, and I almost forgot - I have another friend who is really huge inspiration for me in terms of sport nowadays: check his website and socials: [RunnerMate](https://runnermate.eu)! Thanks Mate, for organizing and keeping together such a nice [running group](https://duhajok.hu), although this was not my main focus during the last couple of months, but I appreciate it and whenever I come around, it is always super fun.
 
 What else could I say?
 I have to look forward and better be up for this challenge!
