@@ -29,8 +29,6 @@ I rationalized how not to pursue new goals. I felt I reached what I wanted. I di
 In August 2024 I bought a gravel bike, and it slowly changed everything. The first season was of course very short but as the next season started in 2025, something has started to whisper in my ears. "You need new goals. You need new goals and fight for them to feel more alive."
 Every time I rode my new bike I felt totally free. The speed and the form gave me something new. I felt this is something new, something exciting. Something that I forgot how much I loved, but in a new form.
 
-Then I lost my dad who was an idol for me in terms of sports. He was an iconic figure in friendly football matches even when he almost turned 80 and trained with more than 20 years younger men. He was a regional rowing champion and he loved sports. I always thought I have to follow his path and be active.
-
 Then I participated in a multi-day hiking trip in Italy with like-minded people. 
 Then I got sick and needed to rest a bit. 
 That was the turning point when I decided to start my new journey.
