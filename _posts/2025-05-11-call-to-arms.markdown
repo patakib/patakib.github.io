@@ -40,6 +40,10 @@ By the end of this season, I want to achieve at least 3 multi-day trips on trail
 Besides that, as a cross-training, I will continue to do aikido and occasionally trail running.
 And a LOT OF stretching and core training/mobility as I don't want to revitalize my low-back pain:).
 
+## Gear
+
+![](/assets/merida_moerbisch.png)
+
 ## Summary
 
 So, that's all - and that is something to work for.

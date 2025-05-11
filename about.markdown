@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 # Intro
+
+![](/assets/selmec_trail.png)
+
 Hi, my name is Bálint Pataki, I am a hobby sportsman from Middle Europe - I live in a town called Sopron in Northwest Hungary and work in Vienna, Austria.
 
 My goal with this blog is to track and share my (bigger) outdoor activities, preparations for such events and anything else related which come into my mind:)
@@ -29,7 +32,9 @@ Then I lost my dad who was an idol for me in terms of sports. He was an iconic f
 
 Then I participated in a multi-day hiking trip in Italy with like-minded people. 
 Then I got sick and needed to rest a bit. 
-That was the turning point.
+That was the turning point when I decided to start my new journey.
+
+![](./assets/garda.png)
 
 I really needed a new goal. I was watching gravel videos and searching for new routes to ride nearby. I was planning riding trips with friends. 
 
@@ -37,6 +42,8 @@ Then I thought I need a big goal to prepare for and fight for.
 
 I decided to participate in the [Hungarian Divide](https://klnd.eu/hungarian-divide-en/) (half distance) in 2026. Yes. This is the only ultra-cycling event in Hungary with more than 70% on trails, altogether it is around 700 kms.
 This is a huge challenge. At least something to work towards!
+
+Oh, and I almost forgot - I have another friend who is really huge inspiration for me in terms of sport nowadays: check his website and socials: [RunnerMate](runnermate.eu)! Thanky Mate, for organizing and keeping together such a nice running group, although this was not my main focus during the last couple of months, but I appreciate it and whenever I come around, it is always fun.
 
 What else could I say?
 
@@ -65,5 +72,5 @@ Cause this is what it's all about
 Heavy Metal - Heavy Metal never dies  
 Heavy Metal never dies!"</i>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/ZRpdjXNl5BM" frameborder="0" allowfullscreen></iframe>
+[Videoclip](https://www.youtube.com/watch?v=ZRpdjXNl5BM)
 
