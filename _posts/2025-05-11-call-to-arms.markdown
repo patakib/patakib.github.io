@@ -5,7 +5,7 @@ date:   2025-05-11 13:40:19 +0200
 categories: misc
 ---
 
-[](/assets/biking2.png)
+![](/assets/biking2.png)
 
 Hello Foreigner,
 
