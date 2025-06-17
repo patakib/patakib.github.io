@@ -5,7 +5,7 @@ date:   2025-06-16 13:40:19 +0200
 categories: cycling
 ---
 
-![](/assets/vertes_ring_01.png)
+![](/assets/vertes_ring_01.jpg)
 
 Hi All,
 
@@ -36,4 +36,4 @@ All in all, it was a very nice tour and I am happy that I participated again. Le
 As I am preparing for multi-day bikepacking tours, I know, that I need to elevate the distance of these rides. But first things first, I have to do it in small steps to avoid injuries and burnout, so in these 1-2 months I just concentrate on participating in such events more often, like every 2-3 weeks and having shorter rides in between just to collect more mileage.
 After that, at the end of the summer or in autumn, my goal is to go for a multi-day ride.
 
-![](/assets/vertes_ring_01.png)
+![](/assets/vertes_ring_01.jpg)
