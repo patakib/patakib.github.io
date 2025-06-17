@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A great gravel event"
-date:   2025-06-17 13:40:19 +0200
+date:   2025-06-16 13:40:19 +0200
 categories: cycling
 ---
 
